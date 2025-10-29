@@ -5,7 +5,6 @@ import os
 from dotenv import load_dotenv
 from werkzeug.utils import secure_filename
 
-
 # load environment variables
 load_dotenv()
 
