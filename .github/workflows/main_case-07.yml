@@ -73,4 +73,7 @@ jobs:
         with:
           app-name: 'case-07'
           slot-name: 'Production'
+          Package: .
+
+          
           
